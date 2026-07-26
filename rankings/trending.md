@@ -2,23 +2,23 @@
 
 | Rank | Plugin | Description | Assistants | Stars | 24h | 7d | Category |
 |---:|---|---|---|---:|---:|---:|---|
-| 1 | [superpowers](https://github.com/obra/superpowers) | An agentic skills framework & software development methodology that works. | Claude Code | 261,455 | — | — | — |
-| 2 | [ecc](https://github.com/affaan-m/ECC) | The agent harness performance optimization system. Skills, instincts, memory, security, and research… | Claude Code, Codex CLI, Cursor | 233,536 | — | — | — |
-| 3 | [hermes-agent](https://github.com/NousResearch/hermes-agent) | The agent that grows with you | Claude Code | 220,783 | — | — | — |
+| 1 | [superpowers](https://github.com/obra/superpowers) | An agentic skills framework & software development methodology that works. | Claude Code | 261,458 | — | — | — |
+| 2 | [ecc](https://github.com/affaan-m/ECC) | The agent harness performance optimization system. Skills, instincts, memory, security, and research… | Claude Code, Codex CLI, Cursor | 233,539 | — | — | — |
+| 3 | [hermes-agent](https://github.com/NousResearch/hermes-agent) | The agent that grows with you | Claude Code | 220,787 | — | — | — |
 | 4 | [andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations… | Claude Code | 196,473 | — | — | — |
-| 5 | [anthropics-skills](https://github.com/anthropics/skills) | Public repository for Agent Skills | Claude Code | 164,280 | — | — | — |
+| 5 | [anthropics-skills](https://github.com/anthropics/skills) | Public repository for Agent Skills | Claude Code | 164,281 | — | — | — |
 | 6 | [ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms | Claude Code | 110,331 | — | — | — |
-| 7 | [graphify](https://github.com/Graphify-Labs/graphify) | Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph.… | Claude Code, Codex CLI, Cursor | 96,243 | — | — | — |
-| 8 | [caveman](https://github.com/JuliusBrussee/caveman) | 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking… | Claude Code | 93,132 | — | — | — |
-| 9 | [claude-mem](https://github.com/thedotmack/claude-mem) | Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during ses… | Claude Code, Codex CLI, GitHub Copilot | 88,619 | — | — | — |
-| 10 | [open-design](https://github.com/nexu-io/open-design) | 🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent become… | Claude Code, Codex CLI, GitHub Copilot, Cursor | 81,672 | — | — | — |
+| 7 | [graphify](https://github.com/Graphify-Labs/graphify) | Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph.… | Claude Code, Codex CLI, Cursor | 96,246 | — | — | — |
+| 8 | [caveman](https://github.com/JuliusBrussee/caveman) | 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking… | Claude Code | 93,134 | — | — | — |
+| 9 | [claude-mem](https://github.com/thedotmack/claude-mem) | Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during ses… | Claude Code, Codex CLI, GitHub Copilot | 88,618 | — | — | — |
+| 10 | [open-design](https://github.com/nexu-io/open-design) | 🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent become… | Claude Code, Codex CLI, GitHub Copilot, Cursor | 81,673 | — | — | — |
 | 11 | [agent-skills](https://github.com/addyosmani/agent-skills) | Production-grade engineering skills for AI coding agents. | Claude Code | 80,451 | — | — | — |
 | 12 | [awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows | Claude Code | 70,844 | — | — | — |
-| 13 | [taste-skill](https://github.com/Leonxlnx/taste-skill) | Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop  | Claude Code | 67,834 | — | — | — |
+| 13 | [taste-skill](https://github.com/Leonxlnx/taste-skill) | Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop  | Claude Code | 67,836 | — | — | — |
 | 14 | [oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebase… | Claude Code | 66,617 | — | — | — |
-| 15 | [career-ops](https://github.com/santifer/career-ops) | Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1… | Claude Code | 61,641 | — | — | — |
-| 16 | [agent-reach](https://github.com/Panniantong/Agent-Reach) | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub,… | Claude Code | 60,975 | — | — | — |
-| 17 | [penpot](https://github.com/penpot/penpot) | Penpot: The open-source design platform for Product teams that need scalable collaboration. | Codex CLI | 57,376 | — | — | — |
+| 15 | [career-ops](https://github.com/santifer/career-ops) | Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1… | Claude Code | 61,643 | — | — | — |
+| 16 | [agent-reach](https://github.com/Panniantong/Agent-Reach) | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub,… | Claude Code | 60,977 | — | — | — |
+| 17 | [penpot](https://github.com/penpot/penpot) | Penpot: The open-source design platform for Product teams that need scalable collaboration. | Codex CLI | 57,377 | — | — | — |
 | 18 | [last30days-skill](https://github.com/mvanhorn/last30days-skill) | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - th… | Claude Code | 53,755 | — | — | — |
 | 19 | [awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) | A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the… | Claude Code | 50,978 | — | — | — |
 | 20 | [chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | Chrome DevTools for coding agents | Claude Code | 47,637 | — | — | — |
@@ -29,26 +29,26 @@
 | 25 | [marketingskills](https://github.com/coreyhaines31/marketingskills) | Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth enginee… | Claude Code | 41,772 | — | — | — |
 | 26 | [awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) | 📄  Configuration files that enhance Cursor AI editor experience with custom rules and behaviors | Cursor | 40,431 | — | — | — |
 | 27 | [academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | Academic Research Skills for Claude Code: research → write → review → revise → finalize | Claude Code | 39,601 | — | — | — |
-| 28 | [agent-browser](https://github.com/vercel-labs/agent-browser) | Browser automation CLI for AI agents | Claude Code | 39,238 | — | — | — |
+| 28 | [agent-browser](https://github.com/vercel-labs/agent-browser) | Browser automation CLI for AI agents | Claude Code | 39,239 | — | — | — |
 | 29 | [agents](https://github.com/wshobson/agents) | Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, GitHub Copilo… | Claude Code, Codex CLI, Cursor | 38,245 | — | — | — |
-| 30 | [awesome-copilot](https://github.com/github/awesome-copilot) | Community-contributed instructions, agents, skills, and configurations to help you make the most of… | GitHub Copilot | 37,054 | — | — | — |
+| 30 | [awesome-copilot](https://github.com/github/awesome-copilot) | Community-contributed instructions, agents, skills, and configurations to help you make the most of… | GitHub Copilot | 37,055 | — | — | — |
 | 31 | [codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph —… | Claude Code | 35,512 | — | — | — |
 | 32 | [financial-services-plugins](https://github.com/anthropics/financial-services) | — | Claude Code | 33,804 | — | — | — |
 | 33 | [claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | Official, Anthropic-managed directory of high quality Claude Code Plugins. | Claude Code | 32,692 | — | — | — |
 | 34 | [scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 160,000+ sc… | Claude Code, Codex CLI, Cursor | 31,816 | — | — | — |
 | 35 | [github-mcp-server](https://github.com/github/github-mcp-server) | GitHub's official MCP Server | Claude Code | 31,734 | — | — | — |
-| 36 | [nature-skills](https://github.com/Yuan1z0825/nature-skills) | 符合nature论文学术表达和科研绘图的Skill | Claude Code | 31,301 | — | — | — |
-| 37 | [humanizer](https://github.com/blader/humanizer) | Agent skill that removes signs of AI-generated writing from text | Claude Code | 31,155 | — | — | — |
-| 38 | [mise](https://github.com/jdx/mise) | dev tools, env vars, task runner | Codex CLI | 31,149 | — | — | — |
+| 36 | [nature-skills](https://github.com/Yuan1z0825/nature-skills) | 符合nature论文学术表达和科研绘图的Skill | Claude Code | 31,302 | — | — | — |
+| 37 | [humanizer](https://github.com/blader/humanizer) | Agent skill that removes signs of AI-generated writing from text | Claude Code | 31,158 | — | — | — |
+| 38 | [mise](https://github.com/jdx/mise) | dev tools, env vars, task runner | Codex CLI | 31,150 | — | — | — |
 | 39 | [codex-plugin-cc](https://github.com/openai/codex-plugin-cc) | Use Codex from Claude Code to review code or delegate tasks. | Claude Code, Codex CLI | 29,976 | — | — | — |
 | 40 | [awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) | A curated collection of 1000+ agent skills from official dev teams and the community, compatible wit… | Claude Code, Codex CLI, Cursor | 28,981 | — | — | — |
 | 41 | [openviking](https://github.com/volcengine/OpenViking) | Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills. | Claude Code | 27,251 | — | — | — |
-| 42 | [ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | The job search that runs on your machine. AI job application framework built on Claude Code: evaluat… | Claude Code | 27,178 | — | — | — |
+| 42 | [ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | The job search that runs on your machine. AI job application framework built on Claude Code: evaluat… | Claude Code | 27,179 | — | — | — |
 | 43 | [claude-hud](https://github.com/jarrodwatts/claude-hud) | A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and… | Claude Code | 26,819 | — | — | — |
 | 44 | [anthropic-cybersecurity-skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2… | Claude Code, Codex CLI, GitHub Copilot, Cursor | 26,623 | — | — | — |
 | 45 | [agentmemory](https://github.com/rohitg00/agentmemory) | #1 Persistent memory for AI coding agents based on real-world benchmarks | Claude Code | 25,805 | — | — | — |
 | 46 | [planning-with-files](https://github.com/OthmanAdi/planning-with-files) | Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown pla… | Claude Code | 25,749 | — | — | — |
-| 47 | [pm-skills](https://github.com/phuryn/pm-skills) | PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, exec… | Claude Code | 24,480 | — | — | — |
+| 47 | [pm-skills](https://github.com/phuryn/pm-skills) | PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, exec… | Claude Code | 24,481 | — | — | — |
 | 48 | [baoyu-skills](https://github.com/JimLiu/baoyu-skills) | — | Claude Code | 24,181 | — | — | — |
 | 49 | [awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) | A collection of 100+ specialized Claude Code subagents covering a wide range of development use case… | Claude Code | 23,738 | — | — | — |
 | 50 | [compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) | Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more | Claude Code, Codex CLI, Cursor | 23,496 | — | — | — |
@@ -57,7 +57,7 @@
 | 53 | [knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork | Claude Code | 23,054 | — | — | — |
 | 54 | [guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill) | AI-agent Skill for generating polished HTML slide decks: editorial magazine and Swiss layouts, image… | Claude Code | 22,415 | — | — | — |
 | 55 | [n8n-mcp](https://github.com/czlonkowski/n8n-mcp) | A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you  | Claude Code, Cursor | 22,411 | — | — | — |
-| 56 | [herdr](https://github.com/ogulcancelik/herdr) | agent multiplexer that lives in your terminal. | Claude Code, Codex CLI | 20,966 | — | — | — |
+| 56 | [herdr](https://github.com/ogulcancelik/herdr) | agent multiplexer that lives in your terminal. | Claude Code, Codex CLI | 20,967 | — | — | — |
 | 57 | [agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) | 🎭 267 个即插即用的 AI 专家角色 — 支持 Hermes Agent/Claude Code/Cursor/Copilot 等 18 种工具，覆盖工程/设计/营销/金融等 20 个部门。含 5… | Claude Code, GitHub Copilot, Cursor | 18,348 | — | — | — |
 | 58 | [notebooklm-py](https://github.com/teng-lin/notebooklm-py) | Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookL… | Claude Code, Codex CLI | 18,203 | — | — | — |
 | 59 | [khazix-skills](https://github.com/KKKKhazix/khazix-skills) | 数字生命卡兹克开源的 AI Skills 合集 \| Agent Skills: neat-freak 洁癖 (docs/memory closeout), hv-analysis, khazix-wr… | Claude Code, Codex CLI | 17,957 | — | — | — |
@@ -79,13 +79,13 @@
 | 75 | [ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp) | AI-powered reverse engineering assistant that bridges IDA Pro with language models through MCP. | Claude Code | 10,779 | — | — | — |
 | 76 | [claude-skills](https://github.com/Jeffallan/claude-skills) | 66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair program… | Claude Code | 10,737 | — | — | — |
 | 77 | [prompt-master](https://github.com/nidhinjs/prompt-master) | A Claude skill that writes the accurate prompts for any AI tool. Zero tokens or credits wasted. Full… | Claude Code | 10,728 | — | — | — |
-| 78 | [mcp-use](https://github.com/mcp-use/mcp-use) | The fullstack MCP framework to develop MCP Apps for ChatGPT / Claude & MCP Servers for AI Agents. | Claude Code | 10,378 | — | — | — |
-| 79 | [i-have-adhd](https://github.com/ayghri/i-have-adhd) | A skill for your coding agent to stop it from burying the answer. ADHD-friendly output. | Claude Code | 10,377 | — | — | — |
+| 78 | [i-have-adhd](https://github.com/ayghri/i-have-adhd) | A skill for your coding agent to stop it from burying the answer. ADHD-friendly output. | Claude Code | 10,383 | — | — | — |
+| 79 | [mcp-use](https://github.com/mcp-use/mcp-use) | The fullstack MCP framework to develop MCP Apps for ChatGPT / Claude & MCP Servers for AI Agents. | Claude Code | 10,378 | — | — | — |
 | 80 | [claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase) | Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents | Claude Code | 9,969 | — | — | — |
 | 81 | [garden-skills](https://github.com/ConardLi/garden-skills) | ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generatio… | Claude Code | 9,807 | — | — | — |
 | 82 | [slavingia-skills](https://github.com/slavingia/skills) | Based on The Minimalist Entrepreneur by Sahil Lavingia | Claude Code | 9,684 | — | — | — |
 | 83 | [awslabs-mcp](https://github.com/awslabs/mcp) | Open source MCP Servers for AWS | Claude Code | 9,504 | — | — | — |
-| 84 | [claude-code-tips](https://github.com/ykdojo/claude-code-tips) | 40+ tips for getting the most out of Claude Code, from basics to advanced - includes a custom status… | Claude Code | 9,444 | — | — | — |
+| 84 | [claude-code-tips](https://github.com/ykdojo/claude-code-tips) | 40+ tips for getting the most out of Claude Code, from basics to advanced - includes a custom status… | Claude Code | 9,445 | — | — | — |
 | 85 | [visual-explainer](https://github.com/nicobailon/visual-explainer) | Agent skill that generates rich HTML pages or slide decks for diagrams, diff reviews, plan audits, d… | Claude Code | 9,342 | — | — | — |
 | 86 | [evolution-api](https://github.com/evolution-foundation/evolution-api) | Evolution API is an open-source WhatsApp integration API | Cursor | 9,086 | — | — | — |
 | 87 | [desktopcommandermcp](https://github.com/wonderwhy-er/DesktopCommanderMCP) | This is MCP server for Claude that gives it terminal control, file system search and diff file editi… | Claude Code | 8,865 | — | — | — |
@@ -104,7 +104,7 @@
 | 100 | [cursor-talk-to-figma-mcp](https://github.com/grab/cursor-talk-to-figma-mcp) | TalkToFigma: MCP integration between AI Agent (Cursor, Claude Code, Codex) and Figma, allowing Agent… | Claude Code, Codex CLI, Cursor | 6,933 | — | — | — |
 | 101 | [mcp](https://github.com/BrowserMCP/mcp) | Browser MCP is a Model Context Provider (MCP) server that allows AI applications to control your bro… | Claude Code | 6,884 | — | — | — |
 | 102 | [waza](https://github.com/tw93/Waza) | 🥷 Engineering habits you already know, turned into skills Claude can run. | Claude Code | 6,634 | — | — | — |
-| 103 | [drawio-skill](https://github.com/Agents365-ai/drawio-skill) | Generate draw.io diagrams from natural language — 11 presets (UML, SysML/MBSE, BPMN, network, C4…),… | Claude Code | 6,629 | — | — | — |
+| 103 | [drawio-skill](https://github.com/Agents365-ai/drawio-skill) | Generate draw.io diagrams from natural language — 11 presets (UML, SysML/MBSE, BPMN, network, C4…),… | Claude Code | 6,630 | — | — | — |
 | 104 | [android-reverse-engineering-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill) | Claude Code skill to support Android app's reverse engineering | Claude Code | 6,549 | — | — | — |
 | 105 | [dev-browser](https://github.com/SawyerHood/dev-browser) | A Claude Skill to give your agent the ability to use a web browser | Claude Code | 6,477 | — | — | — |
 | 106 | [codepilot](https://github.com/op7418/CodePilot) | A multi-model AI agent desktop client — connect any AI provider, extend with MCP & skills, control f… | Claude Code | 6,191 | — | — | — |
@@ -118,7 +118,7 @@
 | 114 | [claude-code-ultimate-guide](https://github.com/FlorianBruniaux/claude-code-ultimate-guide) | The most comprehensive Claude Code guide: agentic workflows, hooks, skills, MCP servers, quizzes, an… | Claude Code | 5,561 | — | — | — |
 | 115 | [claude-coder](https://github.com/kodu-ai/claude-coder) | Kodu is an autonomous coding agent that lives in your IDE. It is a VSCode extension that can help yo… | Claude Code | 5,253 | — | — | — |
 | 116 | [awesome-agentic-ai-zh](https://github.com/WenyuChiou/awesome-agentic-ai-zh) | A trilingual (繁中 / English / 简中) learning roadmap for agentic AI: from LLM basics to multi-agent sys… | Claude Code | 4,865 | — | — | — |
-| 117 | [browser-act-skills](https://github.com/browser-act/skills) | Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across… | Claude Code | 4,807 | — | — | — |
+| 117 | [browser-act-skills](https://github.com/browser-act/skills) | Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across… | Claude Code | 4,808 | — | — | — |
 | 118 | [exa-mcp-server](https://github.com/exa-labs/exa-mcp-server) | Exa MCP for web search and web crawling! | Claude Code | 4,776 | — | — | — |
 | 119 | [openai-plugins](https://github.com/openai/plugins) | OpenAI Plugins | Codex CLI | 4,748 | — | — | — |
 | 120 | [zebbern-claude-code-guide](https://github.com/zebbern/claude-code-guide) | Claude Code Guide - Setup, Commands, workflows, agents, skills & tips-n-tricks go from beginner to p… | Claude Code | 4,436 | — | — | — |
@@ -162,7 +162,7 @@
 | 158 | [agent-rules-books](https://github.com/ciembor/agent-rules-books) | AGENTS.md rules / skills for AI coding agents: Codex, Cursor & Claude Code. Inspired by Clean Code,… | Claude Code, Codex CLI, Cursor | 2,294 | — | — | — |
 | 159 | [paperasse](https://github.com/romainsimon/paperasse) | 🇫🇷  Skills pour agents IA spécialisés dans la bureaucratie française : Comptable, Notaire, ... | Claude Code | 2,286 | — | — | — |
 | 160 | [paper-search-mcp](https://github.com/openags/paper-search-mcp) | MCP, CLI, Skills for searching and downloading academic papers from multiple sources like arXiv, Pub… | Claude Code | 2,259 | — | — | — |
-| 161 | [apify-mcp-server](https://github.com/apify/apify-mcp-server) | The Apify MCP server enables your AI agents to extract data from social media, search engines, maps,… | Claude Code | 2,251 | — | — | — |
+| 161 | [apify-mcp-server](https://github.com/apify/apify-mcp-server) | The Apify MCP server enables your AI agents to extract data from social media, search engines, maps,… | Claude Code | 2,252 | — | — | — |
 | 162 | [mcphub](https://github.com/samanhappy/mcphub) | A unified hub for centrally managing and dynamically orchestrating multiple MCP servers/APIs into se… | Claude Code | 2,240 | — | — | — |
 | 163 | [jcodemunch-mcp](https://github.com/jgravelle/jcodemunch-mcp) | Cut AI token costs 95%+ on code exploration. The leading MCP server for precise, symbol-level GitHub… | Claude Code, Cursor | 2,225 | — | — | — |
 | 164 | [terraform-skill](https://github.com/antonbabenko/terraform-skill) | Terraform & OpenTofu Skill for AI Agents - testing, modules, CI/CD, and production patterns | Claude Code | 2,211 | — | — | — |
@@ -171,11 +171,11 @@
 | 167 | [mcp-router](https://github.com/mcp-router/mcp-router) | A Unified MCP Server Management App (MCP Manager). | Claude Code | 2,100 | — | — | — |
 | 168 | [unreal-mcp](https://github.com/chongdashu/unreal-mcp) | Enable AI assistant clients like Cursor, Windsurf and Claude Desktop to control Unreal Engine throug… | Cursor | 2,041 | — | — | — |
 | 169 | [cursor-rules](https://github.com/flyeric0212/cursor-rules) | 整理和收集来自不同项目的Cursor规则文件，提供多种编程语言和框架的规则支持。 | Cursor | 1,880 | — | — | — |
-| 170 | [video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft) | AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe car… | Claude Code, Codex CLI | 1,867 | — | — | — |
+| 170 | [video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft) | AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe car… | Claude Code, Codex CLI | 1,869 | — | — | — |
 | 171 | [awesome-claude-plugins](https://github.com/composio-community/awesome-claude-plugins) | A curated list of Plugins that let you extend Claude Code with custom commands, agents, hooks, and M… | Claude Code | 1,843 | — | — | — |
 | 172 | [pg-aiguide](https://github.com/timescale/pg-aiguide) | MCP server and Claude plugin for Postgres skills and documentation. Helps AI coding tools generate b… | Claude Code | 1,795 | — | — | — |
 | 173 | [mcphub-nvim](https://github.com/ravitemer/mcphub.nvim) | An MCP client for Neovim that seamlessly integrates MCP servers into your editing workflow with an i… | Claude Code | 1,785 | — | — | — |
-| 174 | [everything-claude-code-zh](https://github.com/xu-xiang/everything-claude-code-zh) | everything-claude-code 中文翻译项目：完整的 Claude Code 配置集合（agents, skills, hooks, commands, rules, MCPs）。源自… | Claude Code | 1,753 | — | — | — |
+| 174 | [everything-claude-code-zh](https://github.com/xu-xiang/everything-claude-code-zh) | everything-claude-code 中文翻译项目：完整的 Claude Code 配置集合（agents, skills, hooks, commands, rules, MCPs）。源自… | Claude Code | 1,754 | — | — | — |
 | 175 | [slack-mcp-server](https://github.com/korotovsky/slack-mcp-server) | The most powerful MCP Slack Server with no permission requirements, Apps support, GovSlack, DMs, Gro… | Claude Code | 1,752 | — | — | — |
 | 176 | [wondelai-skills](https://github.com/wondelai/skills) | Wondel.ai Agent Skills — Business, Marketing, UX & Coding Frameworks from Bestselling Books. 50 skil… | Claude Code | 1,743 | — | — | — |
 | 177 | [mcp-brasil](https://github.com/Mcp-Brasil/mcp-brasil) | MCP Server para 70 APIs públicas brasileiras | Claude Code | 1,689 | — | — | — |

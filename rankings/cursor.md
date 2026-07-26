@@ -6,9 +6,9 @@
 
 | Rank | Plugin | Description | Assistants | Stars | 24h | 7d | Category |
 |---:|---|---|---|---:|---:|---:|---|
-| 1 | [ecc](https://github.com/affaan-m/ECC) | The agent harness performance optimization system. Skills, instincts, memory, security, and research… | Claude Code, Codex CLI, Cursor | 233,536 | — | — | — |
-| 2 | [graphify](https://github.com/Graphify-Labs/graphify) | Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph.… | Claude Code, Codex CLI, Cursor | 96,243 | — | — | — |
-| 3 | [open-design](https://github.com/nexu-io/open-design) | 🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent become… | Claude Code, Codex CLI, GitHub Copilot, Cursor | 81,672 | — | — | — |
+| 1 | [ecc](https://github.com/affaan-m/ECC) | The agent harness performance optimization system. Skills, instincts, memory, security, and research… | Claude Code, Codex CLI, Cursor | 233,539 | — | — | — |
+| 2 | [graphify](https://github.com/Graphify-Labs/graphify) | Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph.… | Claude Code, Codex CLI, Cursor | 96,246 | — | — | — |
+| 3 | [open-design](https://github.com/nexu-io/open-design) | 🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent become… | Claude Code, Codex CLI, GitHub Copilot, Cursor | 81,673 | — | — | — |
 | 4 | [antigravity-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) | AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selecti… | Claude Code, Codex CLI, Cursor | 43,939 | — | — | — |
 | 5 | [awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) | 📄  Configuration files that enhance Cursor AI editor experience with custom rules and behaviors | Cursor | 40,431 | — | — | — |
 | 6 | [agents](https://github.com/wshobson/agents) | Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, GitHub Copilo… | Claude Code, Codex CLI, Cursor | 38,245 | — | — | — |
@@ -48,9 +48,9 @@
 
 | Rank | Plugin | Description | Assistants | Stars | 24h | 7d | Category |
 |---:|---|---|---|---:|---:|---:|---|
-| 1 | [ecc](https://github.com/affaan-m/ECC) | The agent harness performance optimization system. Skills, instincts, memory, security, and research… | Claude Code, Codex CLI, Cursor | 233,536 | — | — | — |
-| 2 | [graphify](https://github.com/Graphify-Labs/graphify) | Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph.… | Claude Code, Codex CLI, Cursor | 96,243 | — | — | — |
-| 3 | [open-design](https://github.com/nexu-io/open-design) | 🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent become… | Claude Code, Codex CLI, GitHub Copilot, Cursor | 81,672 | — | — | — |
+| 1 | [ecc](https://github.com/affaan-m/ECC) | The agent harness performance optimization system. Skills, instincts, memory, security, and research… | Claude Code, Codex CLI, Cursor | 233,539 | — | — | — |
+| 2 | [graphify](https://github.com/Graphify-Labs/graphify) | Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph.… | Claude Code, Codex CLI, Cursor | 96,246 | — | — | — |
+| 3 | [open-design](https://github.com/nexu-io/open-design) | 🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent become… | Claude Code, Codex CLI, GitHub Copilot, Cursor | 81,673 | — | — | — |
 | 4 | [antigravity-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) | AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selecti… | Claude Code, Codex CLI, Cursor | 43,939 | — | — | — |
 | 5 | [awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) | 📄  Configuration files that enhance Cursor AI editor experience with custom rules and behaviors | Cursor | 40,431 | — | — | — |
 | 6 | [agents](https://github.com/wshobson/agents) | Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, GitHub Copilo… | Claude Code, Codex CLI, Cursor | 38,245 | — | — | — |
