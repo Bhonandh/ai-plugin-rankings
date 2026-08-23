@@ -1166,3 +1166,48 @@ plugins:
       - codex
       - cursor
     added: '2026-08-09'
+  - id: ipollowork
+    repo: Devin-AXIS/iPolloWork
+    assistants:
+      - codex
+    added: '2026-08-23'
+  - id: blueprint
+    repo: JuliusBrussee/blueprint
+    assistants:
+      - claude-code
+    added: '2026-08-23'
+  - id: book-to-skill
+    repo: Leutenegger/book-to-skill
+    assistants:
+      - claude-code
+    added: '2026-08-23'
+  - id: everything-claude-code
+    repo: WorldFlowAI/everything-claude-code
+    assistants:
+      - claude-code
+    added: '2026-08-23'
+  - id: notfair-plugin
+    repo: nowork-studio/notfair-plugin
+    assistants:
+      - claude-code
+    added: '2026-08-23'
+  - id: awesome-claude-design
+    repo: rohitg00/awesome-claude-design
+    assistants:
+      - claude-code
+    added: '2026-08-23'
+  - id: sashiko
+    repo: sashiko-dev/sashiko
+    assistants:
+      - codex
+    added: '2026-08-23'
+  - id: autoharness
+    repo: tigerless-labs/autoharness
+    assistants:
+      - claude-code
+    added: '2026-08-23'
+  - id: colleague-skill
+    repo: titanwings/colleague-skill
+    assistants:
+      - claude-code
+    added: '2026-08-23'
