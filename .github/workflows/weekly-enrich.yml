@@ -34,18 +34,18 @@ jobs:
       - name: Run weekly enrichment
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: |
           python -c "
           import os
           from datetime import datetime, timezone
           from pathlib import Path
-          from scripts.anthropic_client import AnthropicEnricher
+          from scripts.gemini_client import GeminiEnricher
           from scripts.enrich import enrich_registry
           from scripts.github_api import GitHubClient
 
           gh = GitHubClient(token=os.environ['GITHUB_TOKEN'])
-          enricher = AnthropicEnricher(api_key=os.environ['ANTHROPIC_API_KEY'])
+          enricher = GeminiEnricher(api_key=os.environ['GEMINI_API_KEY'])
           now = datetime.now(timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ')
           try:
               enrich_registry(
