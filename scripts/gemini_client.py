@@ -11,7 +11,7 @@ class GeminiEnricher:
     def enrich(self, plugin_id: str, readme_content: str) -> str:
         prompt = f"Analyze and enrich metadata for plugin '{plugin_id}' based on its README:\n\n{readme_content}"
         response = self.client.models.generate_content(
-            model="gemini-2.5-flash",
+            model="gemini-3.6-flash",
             contents=prompt,
         )
         return response.text
