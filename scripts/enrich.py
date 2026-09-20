@@ -10,7 +10,8 @@ import logging
 from pathlib import Path
 from typing import Protocol, cast
 
-from scripts.anthropic_client import AnthropicEnricher, EnrichmentParseError, EnrichmentResult
+# Replace anthropic_client with your gemini_client module
+from scripts.gemini_client import GeminiEnricher, EnrichmentParseError, EnrichmentResult
 from scripts.github_api import GitHubClient
 from scripts.metadata import load_metadata, save_metadata
 from scripts.models import Category, MetadataEntry
@@ -35,7 +36,7 @@ def enrich_registry(
     plugins_yaml: Path,
     metadata_path: Path,
     gh: GitHubClient | _GH,
-    enricher: AnthropicEnricher | _Enricher,
+    enricher: GeminiEnricher | _Enricher,
     now: str,
 ) -> None:
     registry = load_registry(plugins_yaml)
