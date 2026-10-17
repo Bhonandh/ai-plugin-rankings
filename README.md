@@ -1,56 +1,56 @@
 # AI Coding Assistant Plugin Rankings
 
-Updated 2026-10-16T07:48:51Z. Source data in `data/`, history in `data` branch.
+Updated 2026-10-17T07:26:12Z. Source data in `data/`, history in `data` branch.
 
 ## Top 20 trending (24h)
 
 | Rank | Plugin | Description | Assistants | Stars | 24h | 7d | Category |
 |---:|---|---|---|---:|---:|---:|---|
-| 1 | [mattpocock-skills](https://github.com/mattpocock/skills) | Skills for Real Engineers. Straight from my .agents directory. | Claude Code | 293,257 | +1,475 | +11,441 | — |
-| 2 | [claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | Official, Anthropic-managed directory of high quality Claude Code Plugins. | Claude Code | 39,524 | +1,360 | +1,958 | — |
-| 3 | [scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ sc… | Claude Code, Codex CLI, Cursor | 50,849 | +1,129 | +2,733 | — |
-| 4 | [ecc](https://github.com/affaan-m/ECC) | The agent harness performance optimization system. Skills, instincts, memory, security, and research… | Claude Code, Codex CLI, Cursor | 280,681 | +978 | +5,070 | — |
-| 5 | [superpowers](https://github.com/obra/superpowers) | An agentic skills framework & software development methodology that works. | Claude Code | 300,191 | +874 | +3,481 | — |
-| 6 | [taste-skill](https://github.com/Leonxlnx/taste-skill) | Agent skills that give coding agents taste: art direction, reference images and a browser check inst… | Claude Code | 97,611 | +848 | +3,645 | — |
-| 7 | [caveman](https://github.com/JuliusBrussee/caveman) | 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of… | Claude Code | 112,826 | +831 | +2,173 | — |
-| 8 | [ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | The job search that runs on your machine. AI job application framework built on Claude Code: evaluat… | Claude Code | 47,662 | +812 | +2,317 | — |
-| 9 | [archify](https://github.com/tt-a1i/archify) | Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Cod… | Claude Code, Codex CLI | 84,202 | +420 | +3,520 | — |
-| 10 | [agent-reach](https://github.com/Panniantong/Agent-Reach) | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub,… | Claude Code | 97,891 | +397 | +3,395 | — |
-| 11 | [career-ops](https://github.com/career-ops-hq/career-ops) | Open-source AI job search agent and job finder: scan job boards, score each job 1-5 against your CV… | Claude Code | 75,103 | +382 | +1,240 | — |
-| 12 | [ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | An AI skill that provides design intelligence for building professional UI/UX across multiple platfo… | Claude Code | 136,350 | +374 | +2,308 | — |
-| 13 | [graphify](https://github.com/Graphify-Labs/graphify) | Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph.… | Claude Code, Codex CLI, Cursor | 127,021 | +373 | +2,162 | — |
-| 14 | [agent-skills](https://github.com/addyosmani/agent-skills) | Production-grade engineering skills for AI coding agents. | Claude Code | 107,150 | +358 | +3,600 | — |
-| 15 | [hermes-agent](https://github.com/NousResearch/hermes-agent) | The agent that grows with you | Claude Code | 254,235 | +347 | +2,088 | — |
-| 16 | [humanizer](https://github.com/blader/humanizer) | Agent skill that removes signs of AI-generated writing from text | Claude Code | 57,381 | +317 | +2,317 | — |
-| 17 | [text-to-cad](https://github.com/earthtojake/text-to-cad) | Give your agent CAD superpowers. | Claude Code | 20,803 | +302 | +2,214 | — |
-| 18 | [claude-mem](https://github.com/thedotmack/claude-mem) | Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during ses… | Claude Code, Codex CLI, GitHub Copilot | 101,130 | +277 | +2,321 | — |
-| 19 | [academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | Academic Research Skills for Claude Code: research → write → review → revise → finalize | Claude Code | 52,329 | +272 | +1,303 | — |
-| 20 | [andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations… | Claude Code | 220,164 | +264 | +2,585 | — |
+| 1 | [claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | Official, Anthropic-managed directory of high quality Claude Code Plugins. | Claude Code | 40,903 | +1,379 | +3,300 | — |
+| 2 | [ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | The job search that runs on your machine. AI job application framework built on Claude Code: evaluat… | Claude Code | 48,883 | +1,221 | +3,464 | — |
+| 3 | [mattpocock-skills](https://github.com/mattpocock/skills) | Skills for Real Engineers. Straight from my .agents directory. | Claude Code | 294,325 | +1,068 | +10,908 | — |
+| 4 | [ecc](https://github.com/affaan-m/ECC) | The agent harness performance optimization system. Skills, instincts, memory, security, and research… | Claude Code, Codex CLI, Cursor | 281,737 | +1,056 | +5,572 | — |
+| 5 | [scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ sc… | Claude Code, Codex CLI, Cursor | 51,743 | +894 | +3,508 | — |
+| 6 | [superpowers](https://github.com/obra/superpowers) | An agentic skills framework & software development methodology that works. | Claude Code | 300,841 | +650 | +3,814 | — |
+| 7 | [taste-skill](https://github.com/Leonxlnx/taste-skill) | Agent skills that give coding agents taste: art direction, reference images and a browser check inst… | Claude Code | 98,137 | +526 | +3,897 | — |
+| 8 | [agent-reach](https://github.com/Panniantong/Agent-Reach) | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub,… | Claude Code | 98,373 | +482 | +3,165 | — |
+| 9 | [archify](https://github.com/tt-a1i/archify) | Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Cod… | Claude Code, Codex CLI | 84,572 | +370 | +3,117 | — |
+| 10 | [agent-skills](https://github.com/addyosmani/agent-skills) | Production-grade engineering skills for AI coding agents. | Claude Code | 107,508 | +358 | +3,260 | — |
+| 11 | [graphify](https://github.com/Graphify-Labs/graphify) | Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph.… | Claude Code, Codex CLI, Cursor | 127,347 | +326 | +2,232 | — |
+| 12 | [ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | An AI skill that provides design intelligence for building professional UI/UX across multiple platfo… | Claude Code | 136,655 | +305 | +2,317 | — |
+| 13 | [open-design](https://github.com/nexu-io/open-design) | The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create prototypes, web… | Claude Code, Codex CLI, GitHub Copilot, Cursor | 101,726 | +302 | +1,424 | — |
+| 14 | [caveman](https://github.com/JuliusBrussee/caveman) | 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of… | Claude Code | 113,108 | +282 | +2,277 | — |
+| 15 | [text-to-cad](https://github.com/earthtojake/text-to-cad) | Give your agent CAD superpowers. | Claude Code | 21,078 | +275 | +2,214 | — |
+| 16 | [hermes-agent](https://github.com/NousResearch/hermes-agent) | The agent that grows with you | Claude Code | 254,496 | +261 | +2,107 | — |
+| 17 | [humanizer](https://github.com/blader/humanizer) | Agent skill that removes signs of AI-generated writing from text | Claude Code | 57,640 | +259 | +2,307 | — |
+| 18 | [andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations… | Claude Code | 220,417 | +253 | +2,591 | — |
+| 19 | [lemo-opuscar](https://github.com/lemomo-ai/lemo-opuscar) | Claude Code skill for short films with no video model: 51 film styles, each a style prompt plus a de… | Claude Code | 2,764 | +231 | — | — |
+| 20 | [free-claude-code](https://github.com/Alishahryar1/free-claude-code) | Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens… | Claude Code | 61,084 | +230 | +3,900 | — |
 
 ## Top 20 all-time (stars)
 
 | Rank | Plugin | Description | Assistants | Stars | 24h | 7d | Category |
 |---:|---|---|---|---:|---:|---:|---|
-| 1 | [superpowers](https://github.com/obra/superpowers) | An agentic skills framework & software development methodology that works. | Claude Code | 300,191 | +874 | +3,481 | — |
-| 2 | [mattpocock-skills](https://github.com/mattpocock/skills) | Skills for Real Engineers. Straight from my .agents directory. | Claude Code | 293,257 | +1,475 | +11,441 | — |
-| 3 | [ecc](https://github.com/affaan-m/ECC) | The agent harness performance optimization system. Skills, instincts, memory, security, and research… | Claude Code, Codex CLI, Cursor | 280,681 | +978 | +5,070 | — |
-| 4 | [hermes-agent](https://github.com/NousResearch/hermes-agent) | The agent that grows with you | Claude Code | 254,235 | +347 | +2,088 | — |
-| 5 | [andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations… | Claude Code | 220,164 | +264 | +2,585 | — |
-| 6 | [anthropics-skills](https://github.com/anthropics/skills) | Public repository for Agent Skills | Claude Code | 181,456 | +219 | +1,382 | — |
-| 7 | [ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | An AI skill that provides design intelligence for building professional UI/UX across multiple platfo… | Claude Code | 136,350 | +374 | +2,308 | — |
-| 8 | [graphify](https://github.com/Graphify-Labs/graphify) | Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph.… | Claude Code, Codex CLI, Cursor | 127,021 | +373 | +2,162 | — |
-| 9 | [caveman](https://github.com/JuliusBrussee/caveman) | 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of… | Claude Code | 112,826 | +831 | +2,173 | — |
-| 10 | [agent-skills](https://github.com/addyosmani/agent-skills) | Production-grade engineering skills for AI coding agents. | Claude Code | 107,150 | +358 | +3,600 | — |
-| 11 | [open-design](https://github.com/nexu-io/open-design) | The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create prototypes, web… | Claude Code, Codex CLI, GitHub Copilot, Cursor | 101,424 | +195 | +1,298 | — |
-| 12 | [claude-mem](https://github.com/thedotmack/claude-mem) | Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during ses… | Claude Code, Codex CLI, GitHub Copilot | 101,130 | +277 | +2,321 | — |
-| 13 | [agent-reach](https://github.com/Panniantong/Agent-Reach) | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub,… | Claude Code | 97,891 | +397 | +3,395 | — |
-| 14 | [taste-skill](https://github.com/Leonxlnx/taste-skill) | Agent skills that give coding agents taste: art direction, reference images and a browser check inst… | Claude Code | 97,611 | +848 | +3,645 | — |
-| 15 | [archify](https://github.com/tt-a1i/archify) | Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Cod… | Claude Code, Codex CLI | 84,202 | +420 | +3,520 | — |
-| 16 | [awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows | Claude Code | 77,214 | +70 | +480 | — |
-| 17 | [career-ops](https://github.com/career-ops-hq/career-ops) | Open-source AI job search agent and job finder: scan job boards, score each job 1-5 against your CV… | Claude Code | 75,103 | +382 | +1,240 | — |
-| 18 | [oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engineering. | Claude Code | 70,086 | +38 | +166 | — |
-| 19 | [last30days-skill](https://github.com/mvanhorn/last30days-skill) | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - th… | Claude Code | 64,460 | +122 | +659 | — |
-| 20 | [penpot](https://github.com/penpot/penpot) | Penpot: The open-source design platform for Product teams that need scalable collaboration. | Codex CLI | 61,193 | +105 | +354 | — |
+| 1 | [superpowers](https://github.com/obra/superpowers) | An agentic skills framework & software development methodology that works. | Claude Code | 300,841 | +650 | +3,814 | — |
+| 2 | [mattpocock-skills](https://github.com/mattpocock/skills) | Skills for Real Engineers. Straight from my .agents directory. | Claude Code | 294,325 | +1,068 | +10,908 | — |
+| 3 | [ecc](https://github.com/affaan-m/ECC) | The agent harness performance optimization system. Skills, instincts, memory, security, and research… | Claude Code, Codex CLI, Cursor | 281,737 | +1,056 | +5,572 | — |
+| 4 | [hermes-agent](https://github.com/NousResearch/hermes-agent) | The agent that grows with you | Claude Code | 254,496 | +261 | +2,107 | — |
+| 5 | [andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations… | Claude Code | 220,417 | +253 | +2,591 | — |
+| 6 | [anthropics-skills](https://github.com/anthropics/skills) | Public repository for Agent Skills | Claude Code | 181,645 | +189 | +1,413 | — |
+| 7 | [ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | An AI skill that provides design intelligence for building professional UI/UX across multiple platfo… | Claude Code | 136,655 | +305 | +2,317 | — |
+| 8 | [graphify](https://github.com/Graphify-Labs/graphify) | Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph.… | Claude Code, Codex CLI, Cursor | 127,347 | +326 | +2,232 | — |
+| 9 | [caveman](https://github.com/JuliusBrussee/caveman) | 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of… | Claude Code | 113,108 | +282 | +2,277 | — |
+| 10 | [agent-skills](https://github.com/addyosmani/agent-skills) | Production-grade engineering skills for AI coding agents. | Claude Code | 107,508 | +358 | +3,260 | — |
+| 11 | [open-design](https://github.com/nexu-io/open-design) | The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create prototypes, web… | Claude Code, Codex CLI, GitHub Copilot, Cursor | 101,726 | +302 | +1,424 | — |
+| 12 | [claude-mem](https://github.com/thedotmack/claude-mem) | Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during ses… | Claude Code, Codex CLI, GitHub Copilot | 101,272 | +142 | +2,194 | — |
+| 13 | [agent-reach](https://github.com/Panniantong/Agent-Reach) | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub,… | Claude Code | 98,373 | +482 | +3,165 | — |
+| 14 | [taste-skill](https://github.com/Leonxlnx/taste-skill) | Agent skills that give coding agents taste: art direction, reference images and a browser check inst… | Claude Code | 98,137 | +526 | +3,897 | — |
+| 15 | [archify](https://github.com/tt-a1i/archify) | Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Cod… | Claude Code, Codex CLI | 84,572 | +370 | +3,117 | — |
+| 16 | [awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows | Claude Code | 77,263 | +49 | +481 | — |
+| 17 | [career-ops](https://github.com/career-ops-hq/career-ops) | Open-source AI job search agent and job finder: scan job boards, score each job 1-5 against your CV… | Claude Code | 75,277 | +174 | +1,346 | — |
+| 18 | [oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engineering. | Claude Code | 70,121 | +35 | +193 | — |
+| 19 | [last30days-skill](https://github.com/mvanhorn/last30days-skill) | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - th… | Claude Code | 64,524 | +64 | +652 | — |
+| 20 | [penpot](https://github.com/penpot/penpot) | Penpot: The open-source design platform for Product teams that need scalable collaboration. | Codex CLI | 61,246 | +53 | +373 | — |
 
 ## By assistant
 
